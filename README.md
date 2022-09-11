@@ -1,7 +1,8 @@
 # flutter_counter2
 
 A new Flutter project.
-
+Création de l'application flutter_counter en intégrant le state managment
+pour ce faire j'ai utiliser flutter_bloc
 ## Getting Started
 
 This project is a starting point for a Flutter application.
